@@ -285,7 +285,7 @@ python-docx==1.1.2
 python-dotenv==1.0.1
 python-engineio==4.12.2
 python-magic==0.4.27
-python-magic-bin==0.4.14
+
 python-multipart==0.0.18
 python-socketio==5.13.0
 pyttsx3==2.99
@@ -372,5 +372,6 @@ yarl==1.18.3
 zipp==3.23.0
 zopfli==0.2.3.post1
 zstandard==0.23.0
+
 
 
