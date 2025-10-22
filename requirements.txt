@@ -117,7 +117,6 @@ ifaddr==0.2.0
 importlib_metadata==8.7.0
 inflection==0.5.1
 ipykernel==6.29.5
-ipython==9.4.0
 ipython_pygments_lexers==1.1.1
 isodate==0.7.2
 itsdangerous==2.2.0
@@ -373,4 +372,5 @@ yarl==1.18.3
 zipp==3.23.0
 zopfli==0.2.3.post1
 zstandard==0.23.0
+
 
